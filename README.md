@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Paulo Paniago
 
-🎓 Computer Science Student | 💻 Developer enthusiast | 📊 Data Analyst
+🎓 Computer Science Student | 💻 Developer Enthusiast | 📊 Data Analyst
 
 ---
 
@@ -9,9 +9,10 @@
 I'm a Computer Science student passionate about building scalable systems, data-driven solutions, and impactful digital products.
 
 Currently, I’m focused on:
-- Developing full-stack applications (Vue.js, Python, MySQL)
-- Exploring Data Engineering & Big Data concepts
+- Developing full-stack applications
+- Exploring Data Engineering, Big Data & Data Science
 - Building real-world projects with practical impact
+- Applying data analysis to understand social and business problems
 
 ---
 
@@ -30,36 +31,66 @@ Currently, I’m focused on:
 - Bootstrap
 
 ### ⚙️ Backend
-- Flask (Python)
-- Node.js (basic)
+- Flask
+- Node.js
+- REST APIs
 
 ### 🗄️ Databases
 - MySQL
+- PostgreSQL
 - MongoDB
-- Cassandra (basics)
+- Cassandra basics
 
-### 📊 Data & Tools
+### 📊 Data Science & Analytics
+- Pandas
+- NumPy
+- Scikit-learn
+- Jupyter Notebook
+- Data Modeling
+- Machine Learning basics
+- KPI Analysis
+
+### 🧰 Tools & Platforms
 - Docker
+- Docker Compose
 - Metabase
-- Databricks (SQL)
+- pgAdmin
+- Databricks SQL
 - Looker Studio
+- Git & GitHub
 
 ---
 
 ## 📂 Featured Projects
 
-### 📦 ERP / Stock Management System
-Full-stack system for managing inventory, sales, and financial operations  
-**Stack:** Vue.js + Python + MySQL  
+### 🇧🇷 Socioeconomic Impact on Criminality in Brazil
+Data Science project analyzing how socioeconomic factors influence crime rates in Brazil.
 
-- Stock control with automatic updates
-- Sales and financial tracking
-- Marketplace integration (in progress)
+**Stack:** Python + Pandas + Scikit-learn + PostgreSQL + Docker + Metabase
+
+- Analysis of public safety, population, education, and IDHM datasets
+- Data Warehouse modeling with PostgreSQL
+- KPIs and dashboards for crime and socioeconomic indicators
+- Machine Learning baseline to explore crime rate prediction
+- Focus on data-driven insights for public policy and prevention strategies
 
 ---
 
-### 📊 Pix Transactions Analysis (Big Data Project)
-Data analysis pipeline using Docker + MongoDB + Metabase  
+### 📦 ERP / Stock Management System
+Full-stack system for managing inventory, sales, and financial operations.
+
+**Stack:** Vue.js + Python + MySQL
+
+- Stock control with automatic updates
+- Sales and financial tracking
+- Marketplace integration in progress
+
+---
+
+### 📊 Pix Transactions Analysis
+Big Data project focused on financial transaction analysis.
+
+**Stack:** Docker + MongoDB + Metabase
 
 - Data ingestion and transformation
 - Dashboard creation for insights
@@ -67,28 +98,33 @@ Data analysis pipeline using Docker + MongoDB + Metabase
 
 ---
 
-### 🎮 Snake Game (Android)
-Classic Snake game built from scratch  
+### 🎮 Snake Game Android
+Classic Snake game built from scratch.
 
-- Swipe controls  
-- Local ranking system using Room Database  
+**Stack:** Java + Android + Room Database
+
+- Swipe controls
+- Local ranking system using Room Database
 
 ---
 
 ## 📈 What I'm Learning
 
-- Data Engineering concepts  
-- Scalable backend architecture  
-- API integrations (marketplaces)  
-- System design  
+- Data Engineering concepts
+- Data Science and Machine Learning
+- Scalable backend architecture
+- API integrations
+- System design
+- Business Intelligence and dashboards
 
 ---
 
 ## 📫 Contact Me
 
-- 📧 Email: paulohspaniago@gmail..com  
+- 📧 Email: paulohspaniago@gmail.com
 - 💼 LinkedIn: www.linkedin.com/in/paulo-paniago-0b38a7340
-  
+
+---
 
 ## ⚡ Fun Fact
 
