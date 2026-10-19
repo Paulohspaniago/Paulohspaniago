@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Paulo Paniago 👋</h1>
 
 <p align="center">
-  Full-stack developer & data enthusiast · Computer Science student<br/>
+  Full-stack developer & data analyst · Computer Science student<br/>
   I build systems that connect real-world workflows to clean data and useful products.
 </p>
 
